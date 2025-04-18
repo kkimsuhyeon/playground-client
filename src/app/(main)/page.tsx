@@ -1,6 +1,6 @@
 import styles from './index.module.css';
 
-import { cn } from '@/util/cn';
+import { cn } from '@/lib/utils';
 
 export default function Home() {
   return (
